@@ -1,5 +1,4 @@
 import requests, csv, argparse
-from pythonping import ping
 
 #parse arguments
 parser = argparse.ArgumentParser(description='A commandline tool to check if a host is accessible')
